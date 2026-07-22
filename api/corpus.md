@@ -202,12 +202,14 @@ building Zester that she realised she wanted to pursue business seriously.
 
 **Learning from a setback (IB results)**
 - *Situation:* When Nicole received her final IB results, they didn't fully reflect
-  the effort she'd put in, and she found that discouraging at first.
-- *Action:* Instead of dwelling on it, she chose to reframe the experience and focus on
-  what she could take from it.
-- *Result:* She came away believing that "rejection is redirection" — that a setback
-  often points you somewhere you were meant to be — and she now tries to treat
-  obstacles as opportunities to grow.
+  the effort she'd put into her final two years, which was discouraging at first.
+- *Action:* Rather than dwell on it, she chose to channel that energy into making the
+  most of the opportunities in front of her — throwing herself into building Zester,
+  taking on internships, and entering case competitions.
+- *Result:* Those choices became some of her most meaningful experiences, and they
+  left her with a belief she still holds: "rejection is redirection" — a setback often
+  points you somewhere you were meant to be. She now tries to treat obstacles as
+  chances to grow.
 
 ## Motivation & Fit
 
