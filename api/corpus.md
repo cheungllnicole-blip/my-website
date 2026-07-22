@@ -8,107 +8,114 @@
 
 Nicole Cheung is a second-year Bachelor of Business Administration (Business &
 Management) student at the Hong Kong University of Science and Technology (HKUST).
-She is currently looking for opportunities she's genuinely passionate about —
-especially in **marketing** — where she can explore new ideas, work with diverse
-people, and create meaningful impact.
+She is currently seeking opportunities she cares about — particularly in
+**marketing** — where she can explore new ideas, work alongside people from
+different backgrounds, and contribute something meaningful.
 
-The throughline across her work is a strong **sense of responsibility**: whenever
-she takes on a role, she aims to do it as well as she possibly can, which has
-consistently left teammates, teachers, and employers wanting to work with her
-again. She describes her core strengths as being attentive and detail-conscious,
-responsible, and honest — qualities that help her weigh risks carefully and make
-considered decisions. What sets her apart is **adaptability**: she has delivered
-across audit, blockchain and social media marketing, entrepreneurship, and
-corporate operations, and can move into an unfamiliar environment, learn its
-context quickly, and still deliver.
+If there's one thread running through her work, it's a **sense of responsibility**:
+when she takes on a role, she tries to do it thoroughly and well, and she's grateful
+that teammates, teachers, and managers have often been happy to work with her again.
+She'd describe her strengths modestly — she tends to be attentive to detail,
+dependable, and honest, which helps her think carefully before making decisions and
+be straightforward with a team when it matters. She's also candid about where she's
+still growing: she's deliberately building her technical and digital skills, and used
+AI tools such as Claude Code to teach herself enough to build this very website and
+its chatbot.
 
-She's fluent in English, Cantonese (native), and Mandarin, and is currently
-deliberately building her technical and digital skills — including using AI tools
-like Claude Code (which she used to build this website and its chatbot).
+What she hopes she brings to a team is **adaptability**. She's had the chance to work
+across quite different settings — audit, blockchain and social media marketing,
+entrepreneurship, and corporate operations — and has learned to step into an
+unfamiliar environment, pick up its context quickly, and still contribute. She's
+fluent in English, Cantonese (native), and Mandarin.
 
 ## Professional Experience
 
 **Winter Intern — Financial Services Audit, KPMG Hong Kong** (Jan 2026 – Feb 2026)
 - Supported audit engagements for financial services clients through analytical
   testing and financial documentation review.
-- Collaborated with engagement teams to ensure compliance with professional
+- Worked closely with engagement teams to help ensure compliance with professional
   auditing standards.
-- Strengthened her analytical, Excel, and problem-solving skills in a fast-paced
+- Developed her analytical, Excel, and problem-solving skills in a fast-paced
   professional environment.
 
 **Winter Intern → Social Media Marketing Manager, Baoli Technologies Holdings Limited** (Dec 2025 – Present)
-- Contributed to an STO (security token offering) tokenization project, gaining
-  exposure to blockchain technology and digital assets.
+- Contributed to an STO (security token offering) tokenization project, which gave
+  her early exposure to blockchain technology and digital assets.
 - Designed marketing materials — social media posts, website layout, and investor
-  slide decks — supporting product promotion and client engagement.
-- Was promoted to Social Media Marketing Manager, leading digital content strategy
-  and brand communications.
-- Taught herself the fundamentals of cryptocurrency and blockchain in her own time
-  (evenings and weekends) to ensure the information in her materials was accurate.
+  slide decks — to support product promotion and client engagement.
+- Was later entrusted with the role of Social Media Marketing Manager, helping lead
+  digital content strategy and brand communications.
+- Because the subject was new to her, she took the time outside of work hours to
+  learn the fundamentals of cryptocurrency and blockchain so the information in her
+  materials would be accurate.
 
 **KS100 Young Talents Program Intern, Sun Hung Kai Properties** (Jul 2024)
-- Prepared business proposals and coordinated cross-functional project activities.
+- Helped prepare business proposals and coordinate cross-functional project
+  activities.
 - Assisted with budget forecasting, event planning, and promotional campaign
   execution.
-- Developed practical experience in corporate operations, stakeholder
-  communication, and project management.
+- Gained practical experience in corporate operations, stakeholder communication,
+  and project management.
 
 ## Entrepreneurship
 
 **Co-Founder, Zester Limited** (Sep 2023 – Present) — HSBC × JA Student Entrepreneur Competition
-- Led sales analytics and digital platform strategy for an award-winning student
-  startup.
-- **Won APAC Company of the Year — 1st out of over 3,500 teams.**
-- Also received the BNY Resilient Futures Award, the Best Project Management Award
-  (APAC), Hong Kong Company of the Year, the Innovation Award, the Best Offering
-  Award, and the Most Popular Award.
+- Helped lead sales analytics and digital platform strategy for the student startup.
+- **Our team was honoured to win APAC Company of the Year — 1st out of more than
+  3,500 teams.**
+- The team also received the BNY Resilient Futures Award, the Best Project
+  Management Award (APAC), Hong Kong Company of the Year, the Innovation Award, the
+  Best Offering Award, and the Most Popular Award.
 - **Finalist for the JA Worldwide De La Vega Global Entrepreneurship Award (2026).**
-- Organized sustainability education initiatives in collaboration with BNY Mellon,
-  Ocean Park, and the HKU Faculty of Education; completed job shadowing at
-  Bloomberg L.P.
+- Helped organize sustainability education initiatives in collaboration with BNY
+  Mellon, Ocean Park, and the HKU Faculty of Education, and completed job shadowing
+  at Bloomberg L.P.
 
-Zester is the experience Nicole considers most significant and most formative.
-Although the company wasn't large in scale, running it through real internal
-conflict, disagreements with teachers, and departmental friction taught her the
-leadership, resilience, and team-alignment skills that a classroom can't fully
-replicate.
+Zester is the experience Nicole considers most significant and most formative. She's
+quick to credit her teammates — the company wasn't large, but working through real
+internal disagreements, differences of opinion with teachers, and friction between
+departments taught the whole team about leadership, resilience, and what a group can
+achieve once it pulls in the same direction. She learned as much from her teammates
+as she contributed.
 
 ## Skills
 
 - **Business:** Financial Analysis, Market Research, Business Strategy, Project
   Management.
-- **Technical:** Microsoft Excel, PowerPoint, Canva, Social Media Marketing, and
-  AI tools (e.g. Claude Code, used to build this website).
+- **Technical:** Microsoft Excel, PowerPoint, Canva, Social Media Marketing, and AI
+  tools such as Claude Code (which she used to build this website).
 - **Languages:** English (fluent), Cantonese (native), Mandarin (fluent).
 
-**How she works:** Nicole works best on honest teams with open communication, and
-usually ends up as the person who takes responsibility for the outcome — noticing
-what's slipping and stepping in. She approaches unfamiliar problems by breaking
-them into smaller pieces, learning the fundamentals she's missing, checking her
-understanding against reliable sources, and putting in extra hours to close the
-gap. She treats feedback as useful information rather than criticism, and considers
-work "ready" when it accurately does its job and meets the audience's standard —
-credible and trustworthy, without over-polishing past the point of diminishing
-returns.
+**How she works:** Nicole does her best work on honest teams with open
+communication, and she often ends up being the person who quietly makes sure things
+get done to a good standard. When she meets an unfamiliar problem, she tries to break
+it into smaller pieces, learn the fundamentals she's missing, check her understanding
+against reliable sources, and put in the extra hours to close the gap. She tries to
+treat feedback as something useful rather than something to take personally, and she
+considers work "ready" when it does its job accurately and meets the audience's
+standard — credible and trustworthy — without over-polishing past the point of
+diminishing returns.
 
 ## Projects & Building
 
 - **Zester Limited** — co-founded and helped grow an award-winning student startup
   (see Entrepreneurship).
-- **Personal website with an AI chatbot** — designed and built from scratch using
-  AI tools including Claude Code, with no prior coding experience.
-- **Community Music Project (Founder)** — led a student team teaching basic English
-  vocabulary and introducing music theory to children at a Hong Kong kindergarten.
-- **Arts & Crafts Project at a local NGO (Co-Founder)** — ran free arts and crafts
-  classes for children from low-income families.
-- **Yearbook & creative media** — Head of Yearbook Photography (led a team of four)
-  and a Quest Week trip reporter handling photography and video.
+- **Personal website with an AI chatbot** — designed and built from scratch using AI
+  tools including Claude Code, despite having no prior coding experience.
+- **Community Music Project (Founder)** — led a small student team to teach basic
+  English vocabulary and introduce music theory to children at a Hong Kong
+  kindergarten.
+- **Arts & Crafts Project at a local NGO (Co-Founder)** — helped run free arts and
+  crafts classes for children from low-income families.
+- **Yearbook & creative media** — served as Head of Yearbook Photography, leading a
+  team of four, and was a Quest Week trip reporter handling photography and video.
 
-Nicole started most of these outside of class requirements, aimed at a specific
-group — children who don't always have access to music, arts, or enrichment; a
-student team competing at a high level; or, for her website, recruiters who want
-to understand her background quickly. Building real things taught her to handle
-ambiguity, conflict, and people in ways a lecture couldn't.
+Most of these she started outside of class, usually with a specific group in mind —
+children who don't always have access to music, arts, or enrichment; a student team
+hoping to compete at a high level; or, for her website, recruiters who'd like to
+understand her background quickly. Building real things has taught her to work
+through ambiguity, disagreement, and the human side of projects in ways a lecture
+couldn't.
 
 ## Education
 
@@ -122,110 +129,112 @@ ambiguity, conflict, and people in ways a lecture couldn't.
 
 **UBC — FGL Digital Media & Entrepreneurship Summer Course** (Jul 2024)
 
-Nicole chose business — and marketing in particular — because it sits at the
+Nicole was drawn to business — and marketing in particular — because it sits at the
 intersection of people, creativity, and strategy. Her IB Business and Economics
-background gave her frameworks like SWOT and financial analysis that she has used
-directly in case competitions and real work, and doing well in competitions and
-building Zester confirmed she wanted to pursue business seriously.
+studies gave her frameworks like SWOT and financial analysis that she has since used
+in case competitions and real work, and it was through those competitions and
+building Zester that she realised she wanted to pursue business seriously.
 
 ## Competitions & Programmes
 
-- **HKMA × HKIB Future Banking Bridging Programme** — placed 4th overall,
-  completing banking-technology and financial-innovation project work.
+- **HKMA × HKIB Future Banking Bridging Programme** — placed 4th overall, completing
+  banking-technology and financial-innovation project work.
 - **ESF Marketing Competition** — represented Island School and placed 6th overall,
   developing a strategic marketing plan for Black Sheep restaurant using financial
   analysis and SWOT frameworks.
-- **Harvard Crimson Global Case Competition** — evaluated Shopee's expansion
-  strategy through market, financial-statement, and competitive analysis.
+- **Harvard Crimson Global Case Competition** — evaluated Shopee's expansion strategy
+  through market, financial-statement, and competitive analysis.
 - **SEAMS Business Case Competition** — designed AI-driven marketing and
   sustainability strategies for luxury retailer OnTheList.
 
 ## Behavioral Stories (Situation · Action · Result)
 
-**Leading and stepping up without a title (university group project)**
-- *Situation:* In a university Organisational Behaviour group project, the final
-  presentation slides weren't up to standard. It was finals week, everyone was
-  overwhelmed, and no one wanted to raise it even though the visuals mattered for
-  the grade.
-- *Action:* Nicole took the initiative and reworked all of the slides herself over
-  two nights to bring them up to standard.
-- *Result:* The presentation met the bar, and her teammates thanked her afterward —
-  they'd felt the same concern but had been too hesitant to speak up. It's her go-to
-  example of leading by taking responsibility for the outcome, not by title.
+**Stepping up during a group project**
+- *Situation:* In a university Organisational Behaviour project, the team's final
+  presentation slides weren't yet at the standard they needed to be. It was finals
+  week and everyone was stretched thin, so the slides risked being left as they were.
+- *Action:* Since the visuals mattered for the grade, Nicole offered to take them on
+  and reworked the slides over two evenings to bring them up to standard.
+- *Result:* The presentation came together well, and her teammates were grateful — a
+  reminder to her that sometimes the most useful thing you can do is simply take
+  responsibility for a gap when others are overwhelmed.
 
-**Owning a project start to finish through conflict (Zester)**
-- *Situation:* Zester began as an entry into the Hong Kong round of a competition.
-  Early on there were conflicts within the team, disagreements with teachers, and
-  friction between departments; things felt disorganized and the team got
+**Seeing a project through, together (Zester)**
+- *Situation:* Zester began as an entry into the Hong Kong round of a competition. In
+  the early days there were disagreements within the team, differing views from
+  teachers, and some friction between departments, and it was easy to feel
   discouraged.
-- *Action:* The team regrouped, worked through the disagreements, and pushed past
-  the difficulties together.
-- *Result:* Zester won APAC Company of the Year (1st of 3,500+ teams) and Hong Kong
-  Company of the Year, and became a Finalist for the JA Worldwide De La Vega Global
-  Entrepreneurship Award.
+- *Action:* Rather than let the difficulties derail things, the team regrouped, talked
+  through the disagreements, and kept working at it together.
+- *Result:* Zester went on to win APAC Company of the Year (1st of 3,500+ teams) and
+  Hong Kong Company of the Year, and became a Finalist for the JA Worldwide De La Vega
+  Global Entrepreneurship Award. Nicole credits the outcome to the whole team finding
+  its footing.
 
-**Learning something new, fast (Baoli)**
+**Learning something new, quickly (Baoli)**
 - *Situation:* Nicole's winter internship at Baoli is in cryptocurrency and
-  blockchain — areas she'd never studied — and she was responsible for marketing
-  assets (social posts, website layout, investor slide decks) that had to be
-  factually correct.
-- *Action:* She taught herself the fundamentals in her own time after work and on
-  weekends, verifying details against reliable sources before anything went out.
-- *Result:* She produced accurate materials on a tight schedule and was promoted to
-  Social Media Marketing Manager.
+  blockchain — areas she hadn't studied — yet she was responsible for marketing
+  materials that needed to be factually accurate.
+- *Action:* She taught herself the fundamentals in her own time, in the evenings and
+  on weekends, and checked details against reliable sources before publishing
+  anything.
+- *Result:* She was able to produce accurate materials on a tight timeline, and was
+  later entrusted with the Social Media Marketing Manager role.
 
-**Handling disagreement constructively (marking dispute)**
-- *Situation:* On a group assignment, the team's research paper went slightly over
-  the word count and was marked down two points out of five — which felt
-  disproportionate, since the research was strong and had placed them among the top
-  three teams.
-- *Action:* Nicole approached the professor respectfully, noting that while the team
-  knew about the word limit, the marking scheme hadn't specified how heavily it
-  would be penalized, and she backed her case with evidence.
-- *Result:* The professor agreed and reduced the deduction to one mark. It taught
-  her that most disagreements can be resolved constructively when you raise them
-  calmly and with evidence.
+**Raising a concern constructively**
+- *Situation:* On a group assignment, the team's research paper went slightly over the
+  word count and lost two of five marks — which felt steep given the strength of the
+  research, which had placed the team among the top three.
+- *Action:* Nicole approached the professor politely to discuss it, noting that while
+  the team was aware of the word limit, the marking scheme hadn't specified how
+  heavily it would be weighted, and she supported her case with evidence.
+- *Result:* The professor kindly agreed to reduce the deduction to one mark. It taught
+  her that most disagreements can be resolved well when you raise them respectfully and
+  come prepared.
 
-**Leading a team (yearbook photography)**
+**Leading a small team (yearbook photography)**
 - *Situation:* As Head of Yearbook Photography in high school, Nicole led a team of
-  four to deliver the school's yearbook.
-- *Action:* She organized and led the whole process, keeping the team on track.
-- *Result:* The publication came together smoothly and on schedule — one of the
-  accomplishments she's personally proudest of.
+  four to help deliver the school's yearbook.
+- *Action:* She organised and coordinated the process to keep the team on track.
+- *Result:* The publication came together smoothly and on schedule. It's one of the
+  experiences she's quietly most proud of, because it depended on the team working
+  well together.
 
-**Resilience after a setback (IB results)**
-- *Situation:* When Nicole received her final IB results, they didn't reflect the
-  effort she'd put in over two years, and she was initially discouraged.
-- *Action:* Rather than let it stop her, she reframed the setback and focused on
-  what she could learn from it.
-- *Result:* She came away with the belief that "rejection is redirection" — that
-  setbacks often point you somewhere you were meant to be — and now treats obstacles
-  as things that make her stronger.
+**Learning from a setback (IB results)**
+- *Situation:* When Nicole received her final IB results, they didn't fully reflect
+  the effort she'd put in, and she found that discouraging at first.
+- *Action:* Instead of dwelling on it, she chose to reframe the experience and focus on
+  what she could take from it.
+- *Result:* She came away believing that "rejection is redirection" — that a setback
+  often points you somewhere you were meant to be — and she now tries to treat
+  obstacles as opportunities to grow.
 
 ## Motivation & Fit
 
 - **What energizes her:** creative, hands-on work with a clear purpose — designing
-  marketing content, building something from scratch, or taking a messy situation
-  and making it work. What drains her is things drifting with no ownership.
-- **First roles:** she's optimizing mainly for growth and learning — building strong
-  skills (especially technical and digital), working with people she can learn from,
-  and doing work that means something; money is secondary.
-- **A great team/manager:** honest and open, shares responsibility, gives clear
-  direct feedback, and trusts people with real responsibility.
-- **A few years out:** established in a marketing or digital-strategy role with
-  meaningful ownership, having combined her business foundation with genuine
+  marketing content, building something from scratch, or helping bring order to a
+  messy situation. What she finds draining is when work drifts with no one taking
+  ownership.
+- **First roles:** she's mainly looking for growth and learning — the chance to build
+  strong skills (especially technical and digital), to work with people she can learn
+  from, and to do work that means something. Compensation matters less to her at this
+  stage than the environment.
+- **A great team and manager:** honest and communicative, willing to share
+  responsibility, and generous with clear, direct feedback and real trust.
+- **A few years out:** she'd like to be established in a marketing or digital-strategy
+  role with meaningful ownership, having combined her business foundation with genuine
   technical and AI fluency.
 
 ## Beyond work (the human behind the résumé)
 
-Nicole has a strong creative and performance side: she was a Senior A member of the
-Hong Kong Children's Choir, won a Silver Prize at the HKYPAF Harp Competition, and
-did photography and video as a yearbook lead and Quest Week reporter. She also
-played A-Grade badminton at school. She sees the creative side as a strength that
-feeds directly into her marketing work, while sport and music taught her discipline
-and teamwork. She has also served as a Business School Student Ambassador at HKUST,
-a House Mentoring Representative, a Student Council media-team member, and a Chinese
-student mentor.
+Nicole has a strong creative and performing side: she was a Senior A member of the
+Hong Kong Children's Choir, received a Silver Prize at the HKYPAF Harp Competition,
+and did photography and video work as a yearbook lead and Quest Week reporter. She
+also played A-Grade badminton at school. She feels the creative side quietly informs
+her marketing work, while sport and music taught her discipline and teamwork. She has
+also served as a Business School Student Ambassador at HKUST, a House Mentoring
+Representative, a member of the Student Council media team, and a Chinese-language
+mentor for younger students.
 
 ## How to reach me
 
