@@ -1,5 +1,8 @@
 # Personal PDF — never deploy or commit (contains private details)
 Feed Folder/
 
+# Raw interview transcript — private working draft, must NOT go live
+raw-answers.md
+
 # macOS
 .DS_Store
