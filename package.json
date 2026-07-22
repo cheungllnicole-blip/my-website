@@ -1,0 +1,9 @@
+{
+  "name": "nicole-cheung-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal website for Nicole Cheung with an about-me chat endpoint.",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.70.0"
+  }
+}
