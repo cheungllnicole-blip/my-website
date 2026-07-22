@@ -94,18 +94,8 @@ module.exports = async function handler(req, res) {
     return res.status(200).json({ reply });
   } catch (err) {
     console.error('chat error:', err);
-    // Temporary diagnostic: surface the real error so we can see what's wrong.
-    // (Does NOT expose the API key — only the API's error type/message.)
-    let detail = '';
-    if (err) {
-      if (err.status) detail += 'HTTP ' + err.status + ' ';
-      if (err.name) detail += err.name + ' ';
-      const msg =
-        (err.error && err.error.error && err.error.error.message) || err.message;
-      if (msg) detail += '- ' + String(msg);
-    }
     return res
       .status(500)
-      .json({ error: 'Chat error: ' + (detail.trim() || 'unknown').slice(0, 300) });
+      .json({ error: 'Something went wrong answering that. Please try again.' });
   }
 };
